@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\CK Project\GarciaMP1-1\GarciaMP1-1\bin\Debug\GarciaMP1-1.exe.config
+C:\Users\student\Desktop\CK Project\GarciaMP1-1\GarciaMP1-1\bin\Debug\GarciaMP1-1.exe
+C:\Users\student\Desktop\CK Project\GarciaMP1-1\GarciaMP1-1\bin\Debug\GarciaMP1-1.pdb
+C:\Users\student\Desktop\CK Project\GarciaMP1-1\GarciaMP1-1\obj\Debug\GarciaMP1-1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\CK Project\GarciaMP1-1\GarciaMP1-1\obj\Debug\GarciaMP1-1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CK Project\GarciaMP1-1\GarciaMP1-1\obj\Debug\GarciaMP1-1.exe
+C:\Users\student\Desktop\CK Project\GarciaMP1-1\GarciaMP1-1\obj\Debug\GarciaMP1-1.pdb
+C:\Users\CK\Documents\ComProg\GarciaMP1\GarciaMP1-1\GarciaMP1-1\bin\Debug\GarciaMP1-1.exe.config
+C:\Users\CK\Documents\ComProg\GarciaMP1\GarciaMP1-1\GarciaMP1-1\bin\Debug\GarciaMP1-1.exe
+C:\Users\CK\Documents\ComProg\GarciaMP1\GarciaMP1-1\GarciaMP1-1\bin\Debug\GarciaMP1-1.pdb
+C:\Users\CK\Documents\ComProg\GarciaMP1\GarciaMP1-1\GarciaMP1-1\obj\Debug\GarciaMP1-1.csproj.AssemblyReference.cache
+C:\Users\CK\Documents\ComProg\GarciaMP1\GarciaMP1-1\GarciaMP1-1\obj\Debug\GarciaMP1-1.csproj.CoreCompileInputs.cache
+C:\Users\CK\Documents\ComProg\GarciaMP1\GarciaMP1-1\GarciaMP1-1\obj\Debug\GarciaMP1-1.exe
+C:\Users\CK\Documents\ComProg\GarciaMP1\GarciaMP1-1\GarciaMP1-1\obj\Debug\GarciaMP1-1.pdb
